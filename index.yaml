@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  robot-shop:
+  - apiVersion: v1
+    created: "2025-03-11T16:29:57.527160104-06:00"
+    description: Sample micoservices application
+    digest: ddc57a7118e3431b643f37457399d8bf37e4920cb8cf32c9c3902f1ae684fe7e
+    home: https://github.com/Quetzal-GrupoAbraxas/robot-shop/
+    name: robot-shop
+    urls:
+    - charts/robot-shop-1.1.0.tgz
+    version: 1.1.0
+generated: "2025-03-11T16:29:57.526554839-06:00"
